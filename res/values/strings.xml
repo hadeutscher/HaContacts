@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HaContacts</string>
+    <string name="action_contacts">Show Contacts</string>
+    <string name="action_rawcontacts">Raw Contacts</string>
+    <string name="action_entitize">Entitize</string>
+    <string name="action_groups">Show Groups</string>
+    <string name="action_addgroup">Add Group</string>
+    <string name="action_delete">Delete Selected</string>
+    <string name="action_move">To: &lt;Null&gt;</string>
+    <string name="action_ringtone">Set Ringtone</string>
+    <string name="action_toggle">Toggle Selection</string>
+    <string name="action_cleanup">Cleanup Deleted</string>
+    <string name="setting_match_gid">Match GID</string>
+    <string name="setting_syncadapter">SyncAdapter</string>
+    <string name="button_name">HaButton</string>
+
+</resources>

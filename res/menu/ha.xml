@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_contacts"
+        android:showAsAction="never"
+        android:title="@string/action_contacts"/>
+    <item
+        android:id="@+id/action_rawcontacts"
+        android:showAsAction="never"
+        android:title="@string/action_rawcontacts"/>
+    <item
+        android:id="@+id/action_entitize"
+        android:showAsAction="never"
+        android:title="@string/action_entitize"/>
+    <item
+        android:id="@+id/action_groups"
+        android:showAsAction="never"
+        android:title="@string/action_groups"/>
+    <item
+        android:id="@+id/action_addgroup"
+        android:showAsAction="never"
+        android:title="@string/action_addgroup"/>
+    <item
+        android:id="@+id/action_delete"
+        android:showAsAction="never"
+        android:title="@string/action_delete"/>
+    <item
+        android:id="@+id/action_move"
+        android:showAsAction="never"
+        android:title="@string/action_move"/>
+    <item
+        android:id="@+id/action_ringtone"
+        android:showAsAction="never"
+        android:title="@string/action_ringtone"/>
+    <item
+        android:id="@+id/action_toggle"
+        android:showAsAction="never"
+        android:title="@string/action_toggle"/>
+    <item
+        android:id="@+id/action_cleanup"
+        android:showAsAction="never"
+        android:title="@string/action_cleanup"/>
+    <item
+        android:id="@+id/setting_match_gid"
+        android:showAsAction="never"
+        android:title="@string/setting_match_gid"
+        android:checkable="true" />
+	<item
+        android:id="@+id/setting_syncadapter"
+        android:showAsAction="never"
+        android:title="@string/setting_syncadapter"
+        android:checkable="true" />
+</menu>
