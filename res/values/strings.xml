@@ -12,6 +12,7 @@
     <string name="action_ringtone">Set Ringtone</string>
     <string name="action_toggle">Toggle Selection</string>
     <string name="action_cleanup">Cleanup Deleted</string>
+	<string name="action_prefixes">Fix Prefixes</string>
     <string name="setting_match_gid">Match GID</string>
     <string name="setting_syncadapter">SyncAdapter</string>
     <string name="button_name">HaButton</string>

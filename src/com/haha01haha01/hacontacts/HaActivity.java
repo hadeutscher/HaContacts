@@ -166,6 +166,13 @@ public class HaActivity extends Activity
             case R.id.action_cleanup:
             	new ContactCleaner(this);
             	break;
+            
+            // Fix Prefixes
+            case R.id.action_prefixes:
+                if (selected_ids.size() > 0 && content.getType() == ContentHolder.TYPE_CONTACTS) {
+            		rawEntitize(util.getRawContactsFromContacts(selected_ids, null));
+            	}
+                break;
                 
             // Setting: Match GID
             case R.id.setting_match_gid:
